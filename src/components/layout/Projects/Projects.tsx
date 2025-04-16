@@ -64,7 +64,7 @@ export default function Projects() {
                 </div>
                 <div>
                     <p className="projects-content-title">Portfolio</p>
-                    <p className="projects-content-text">I want to include this portfolio in this list so I can go into a little bit of detail into how I created it. It is built using Javascript, React, TypeScript, Next.js, GitHub, with Vercel for deployment. I have worked on other projects that utilized Next.js, but this was the first project I have initialized utilizing it. I programmed the website to look great on large monitors, as well as laptop screens even as the browser window is made very small. The auto scrolling functionality through a button, or through the navigation is done using the HTML DOM element&apos;s `scrollIntoView()` method. No A.I. was used when creating the porfolio and I hope you have enjoyed browsing the site as much as I enjoyed making it!</p>
+                    <p className="projects-content-text">I want to include this portfolio in this list so I can go into a little bit of detail into how I created it. It is built using Javascript, React, TypeScript, Next.js, GitHub, with Vercel for deployment. I programmed the website to look great on large monitors, as well as laptop screens even as the browser window is made very small. The lightboxes are handled by utilizing FSLightbox, and the icons you see are from React Bootstrap Icons. The auto scrolling functionality through a button, or through the navigation is done using the HTML DOM element&apos;s `scrollIntoView()` method. No A.I. was used when creating the porfolio and I hope you have enjoyed browsing the site as much as I enjoyed making it!</p>
                 </div>
             </div>
         </div>
