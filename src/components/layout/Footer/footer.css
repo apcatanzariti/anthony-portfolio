@@ -35,3 +35,7 @@
     justify-content: space-evenly;
     align-items: center;
 }
+
+.socials-container a {
+    display: flex;
+}

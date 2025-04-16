@@ -50,3 +50,16 @@
     cursor: pointer;
     color: #005eb1;
 }
+
+.icon-container {
+    padding: 1rem 1.5rem;
+}
+
+.icon-container a {
+    display: flex;
+    color: #333333;
+}
+
+.icon-container a:hover {
+    color: #005eb1;
+}
