@@ -1,5 +1,5 @@
+import { Linkedin, Github } from "react-bootstrap-icons";
 import "./header.css";
-// import Image from "next/image";
 
 interface HeaderProps {
     scrollToIntro: () => void;
@@ -20,6 +20,8 @@ export default function Header({ scrollToIntro, scrollToAbout, scrollToProjects,
                     <p onClick={scrollToAbout}>About</p>
                     <p onClick={scrollToProjects}>Projects</p>
                     <p onClick={scrollToContact}>Contact</p>
+                    <div className="icon-container"><a href="https://www.linkedin.com/in/anthony-catanzariti" target="_blank"><Linkedin size={25} /></a></div>
+                    <div className="icon-container"><a href="https://www.github.com/apcatanzariti" target="_blank"><Github size={25} /></a></div>
                 </div>
             </div>
         </div>
