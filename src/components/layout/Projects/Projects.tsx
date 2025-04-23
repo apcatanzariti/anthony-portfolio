@@ -14,7 +14,7 @@ export default function Projects() {
             <div className="project-block">
                 <div>
                     <p className="projects-content-title">Entergy Isolated Backup Application</p>
-                    <p className="projects-content-text">The Isolated Backup Application for Entergy was a web applicaiton built to protect the company from incidents where its data could be compromised - such as hackers, ransomware, and even natural disasters. The application would back up all servers and safely store the data in an isolated enviroment, allowing the data to be recovered in the event of an attack or data loss due to physical damage from natural disasters. This created tremendous value for not only Entergy, but its customers as well. I designed and developed both the front and back ends (React/Node) of the application, integrating Ansible automation and CommVault where needed.</p>
+                    <p className="projects-content-text">The Isolated Backup Application for Entergy was a web application built to protect the company from incidents where its data could be compromised - such as hackers, ransomware, and even natural disasters. The application would back up all servers and safely store the data in an isolated environment, allowing the data to be recovered in the event of an attack or data loss due to physical damage from natural disasters. This created tremendous value for not only Entergy, but its customers as well. I designed and developed both the front and back ends (React/Node) of the application, integrating Ansible automation and CommVault where needed.</p>
                 </div>
                 <div>
                     <ImageCarousel 
