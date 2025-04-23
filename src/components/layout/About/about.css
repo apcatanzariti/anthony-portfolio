@@ -1,6 +1,7 @@
 .about-container {
     margin: auto;
     width: 78%;
+    max-width: 80rem;
     position: relative;
 }
 
